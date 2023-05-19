@@ -1,2 +1,2 @@
 # nasir-repository
-for my learning projects
+for my learning projects for tutorial purpose
